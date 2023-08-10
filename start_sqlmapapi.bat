@@ -1,0 +1,1 @@
+python necessary_environment/sqlmap_1752/sqlmapapi.py -s
